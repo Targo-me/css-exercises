@@ -26,8 +26,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
- }
+  }
 
 .sidebar {
   flex: 1 0 300px;
@@ -44,8 +43,6 @@ body {
   width: 300px;
   padding: 16px;
   border-radius: 4px;
-  
-  p;
   font-size: small;
   }
 
